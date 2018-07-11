@@ -1,0 +1,38 @@
+.root {
+  width: 100%;
+
+  & > .header {
+    .title {
+      padding-top: 40px;
+      span {
+        display: inline-block;
+        margin-left: 70px;
+        padding: 13px 60px;
+        background-color: #2ec185;
+        border: 1px solid #88d8bf;
+        font-size: 40px;
+        color: #fff;
+        font-weight: 900;
+      }
+    }
+    .stripe {
+      border-bottom: 1px solid #56d0a2;
+      border-top: 1px solid #56d0a2;
+      background-color: #2ec185;
+      height: 7px;
+    }
+  }
+
+  & > .main {
+    display: flex;
+    .left {
+      margin-left: 70px;
+      width: 100%;
+    }
+    .right {
+      width: 340px;
+      margin-right: 80px;
+      background-color: #2ec185;
+    }
+  }
+}

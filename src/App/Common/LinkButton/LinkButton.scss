@@ -1,0 +1,7 @@
+a.link-button {
+  text-decoration: none;
+  color: #000;
+  &.disabled {
+    opacity: 0.5;
+  }
+}

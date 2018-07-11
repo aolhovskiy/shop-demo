@@ -1,0 +1,54 @@
+.product-list .product {
+  display: flex;
+  flex-direction: column;
+  border: 2px solid #2ec185;
+  width: 275px;
+  align-items: center;
+  font-size: 20px;
+  margin-right: 30px;
+  margin-top: 30px;
+
+  img {
+    max-width: 80%;
+    height: 185px;
+    margin-top: 10px;
+  }
+
+  .title {
+    margin-top: 10px;
+    max-width: 80%;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+  }
+
+  .stock {
+    margin-top: 20px;
+    display: flex;
+    align-self: flex-start;
+    margin-left: 35px;
+    .price {
+      font-size: 35px;
+    }
+    .remaining {
+      margin-left: 16px;
+      align-self: flex-end;
+      margin-bottom: 6px;
+    }
+  }
+  
+  .add {
+    margin-top: 25px;
+    margin-bottom: 25px;
+    button {
+      font-size: 20px;
+      font-weight: 900;
+      width: 207px;
+      height: 43px;
+      background-color: #2ec185;
+      border: 1px solid #56d0a2;
+      border-radius: 10px;
+      cursor: pointer;
+    }
+  }
+}
