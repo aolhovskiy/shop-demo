@@ -3,9 +3,13 @@
 [Demo](https://aolhovskiy.github.io/shop-demo/)
 
 # Known Issues/Questions*
+
 • Currency formatting - designs do not include decimal points, but it would confuse end users (wrong total calculations, product price mismatch, etc).
+
 • Font - it's cumbersome to guess font from picture. `Source Sans Pro` is used, but it doesn't support stretching as shown on picture.
+
 • Mobile - considered as not in scope (at least for now). Would require additional time.
+
 • Browser support - tested in latest Chrome and FF, shouldn't work in IE < 10.
 
 # Getting started
