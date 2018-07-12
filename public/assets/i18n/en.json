@@ -9,7 +9,10 @@
   "CART_SUBTOTAL_SUFFIX": "each",
   "CART_SUBTOTAL_EQUALS": " = ",
   "DELETE": "Delete",
+  "LOADING": "Loading...",
   "PRODUCT_ADD": "Add to Cart",
+  "PRODUCT_NO_ITEMS": "There are no products available",
   "PRODUCT_REMAINING": "{value} In Stock",
+  "PRODUCT_LIST_ERROR": "Failed to load products",
   "TITLE": "Fruit"
 }
