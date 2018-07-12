@@ -1,0 +1,18 @@
+{
+  "CART_CHECKOUT": "Confirm Purchase",
+  "CART_EMPTY": "Empty Cart",
+  "CART_NO_ITEMS": "Your Shopping Cart is empty.",
+  "CART_TITLE": "Shopping Cart",
+  "CART_TOTAL_ITEMS": "{value} items",
+  "CART_TOTAL_PRICE": "Total: ",
+  "CART_SUBTOTAL_PREFIX": "@ ",
+  "CART_SUBTOTAL_SUFFIX": "each",
+  "CART_SUBTOTAL_EQUALS": " = ",
+  "DELETE": "Delete",
+  "LOADING": "Loading...",
+  "PRODUCT_ADD": "Add to Cart",
+  "PRODUCT_NO_ITEMS": "There are no products available",
+  "PRODUCT_REMAINING": "{value} In Stock",
+  "PRODUCT_LIST_ERROR": "Failed to load products",
+  "TITLE": "Fruit"
+}
