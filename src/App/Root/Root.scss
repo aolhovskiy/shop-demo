@@ -25,17 +25,16 @@
   }
 
   & > .main {
-    height: 100%;
     display: flex;
     .left {
       margin-left: 70px;
     }
     .right {
-      height: 100%;
       margin-left: auto;
       flex: 0 0 340px;
       background-color: #2ec185;
       margin-right: 80px;
+      overflow: visible;
     }
   }
 }
