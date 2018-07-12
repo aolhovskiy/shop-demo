@@ -1,3 +1,3 @@
 npm i
-npm build
 npm test
+npm run build
